@@ -23,18 +23,7 @@ style="max-width: 100%;"></a></p>
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open 171394187-96e2d510-4e85-436d-b2c3-7429fc940775.gif in new window" class="AnimatedImagePlayer-button" href="https://user-images.githubusercontent.com/60824509/171394187-96e2d510-4e85-436d-b2c3-7429fc940775.gif" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      
-        </span>
-      </span></animated-image></p>    
-      <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030"><img src="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&amp;color=00cf00" style="max-width: 100%;"></a></p>
-      <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030"><img src="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&amp;color=00cf00" style="max-width: 100%;"></a>
-      <img src="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&amp;color=00cf00" style="max-width: 100%;">
+  
 
 ## I'm a Student, Entrepreneur, Developer, and Nutrition/Fitness Enthusiast!!
 
