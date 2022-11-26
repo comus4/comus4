@@ -30,6 +30,8 @@ style="max-width: 100%;"></a></p>
           </a>
         </span>
       </span></animated-image></h1>
+      
+      <img src="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&amp;color=00cf00" style="max-width: 100%;">
 
 ## I'm a Student, Entrepreneur, Developer, and Nutrition/Fitness Enthusiast!!
 
