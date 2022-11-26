@@ -12,7 +12,7 @@
 ### Connect with me:
 
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/comus-hardman#gh-light-mode-only)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/comus-hardman-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/comus-hardman#gh-light-mode-only)
 
 
