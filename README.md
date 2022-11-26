@@ -1,3 +1,5 @@
+# Hi There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+
 
 ![](https://komarev.com/ghpvc/?username=comus4)
 
