@@ -15,10 +15,8 @@
 <p align="left" dir="auto">
 <a href="https://linkedin.com/in/comus-hardman/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vince-verdadero-018495223" height="30" width="40" style="max-width: 100%;"></a>
 </p>
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vince-verdadero-018495223" height="30" width="40" style="max-width: 100%;">
 
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/comus-hardman-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/comus-hardman#gh-light-mode-only)
+
 
 
 ### Languages and Tools:
