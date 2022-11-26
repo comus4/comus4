@@ -1,5 +1,4 @@
-# Hi There! 
-<animated-image data-catalyst="" style="width: 35px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" data-target="animated-image.originalLink"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+# Hi There! <animated-image data-catalyst="" style="width: 35px;"><a target="_blank" rel="noopener noreferrer" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" data-target="animated-image.originalLink"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" target="_blank">
           <span data-target="animated-image.imageContainer">
