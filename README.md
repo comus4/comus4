@@ -29,30 +29,7 @@ style="max-width: 100%;"></a></p>
             </svg>
           </a>
         </span>
-      </span></animated-image></h1>
-  <p dir="auto"><animated-image data-catalyst=""><a href="https://linkedin.com/in/comus-hardman/" rel="nofollow" data-target="animated-image.originalLink"><img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Comus" title="👋 Hi there! I'm Comus" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://raymond.li/" target="_blank">
-          <span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="👋 Hi there! I'm Comus" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="846" height="223"></canvas></span>
-        </a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play 👋 Hi there! I'm Comus"></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play 👋 Hi there! I'm Comus">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open 👋 Hi there! I'm Comus in new window" class="AnimatedImagePlayer-button" href="https://linkedin.com/in/comus-hardman/" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
+      
         </span>
       </span></animated-image></p>    
       <p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030"><img src="https://camo.githubusercontent.com/014832036e066d7fd610ded8e3d158add9831ec6495956e0cd49701f65411403/68747470733a2f2f76697369746f722d62616467652d72656c6f616465642e6865726f6b756170702e636f6d2f62616467653f706167655f69643d5261796d6f3131312e5261796d6f31313126636f6c6f723d303063663030" alt="visitors" data-canonical-src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=Raymo111.Raymo111&amp;color=00cf00" style="max-width: 100%;"></a></p>
