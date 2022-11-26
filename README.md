@@ -1,6 +1,6 @@
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="Awesome Matrix Code" align="right" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-# Hi There! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 50%; display: inline-block;" data-target="animated-image.originalImage">
+# Hi There! 
 
 ![](https://komarev.com/ghpvc/?username=comus4)
 
