@@ -12,8 +12,8 @@
 ## I'm a Student, Budding Developer, and Nutrition/Fitness Enthusiast!!
 
 - 🌱 I’m currently learning more about SwiftUI, ARKit, RealityKit, Reality Composer, MVVM, Core Data, Structured Concurrency.  
-- 🥅 2023 Goals: Learn everything I can to be ready to develop for Apple's upcoming Mixed Reality Headset and then AR smart glasses.
-- ⚡ Fun fact: I love to go for runs out in nature.
+- 🌱 2023 Goals: Learn everything I can to be ready to develop for Apple's upcoming Mixed Reality Headset and then AR smart glasses.
+- 🌱 Fun fact: I love to go for runs out in nature.
 
 
 ### Connect with me:
