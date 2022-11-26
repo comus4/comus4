@@ -7,7 +7,7 @@
 
 # Hi There! 
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=comus4)
 
 ## I'm a Student, Budding Developer, and Nutrition/Fitness Enthusiast!!
 
