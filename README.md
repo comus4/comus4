@@ -2,7 +2,7 @@
 
 
 
-![My Image](matrix-on-glasses-Small.jpg)
+![My Image](matrix-on-glasses.jpg)
 
 
 # Hi There! 
