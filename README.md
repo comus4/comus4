@@ -1,6 +1,4 @@
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="Awesome Matrix Code" align="left" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
-![matrix-on-glasses Small](https://user-images.githubusercontent.com/79765856/204118234-faf46b6a-cf40-4f53-bcef-d4325d790cc1.jpeg)
 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="Awesome Matrix Code" align="center" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
