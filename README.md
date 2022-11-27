@@ -30,6 +30,9 @@
 - 🌱 2023 Goals: Learn everything I can to be ready to develop for Apple's upcoming Mixed Reality Headset and then AR smart glasses.
 - 🌱 Thing I do for fun: Going for runs out in nature.
 
+## Me as I learn to code:
+![interstellar-cryinggif](https://user-images.githubusercontent.com/79765856/204119301-cacaa961-95bb-4265-a94e-86d1e0496755.gif)
+
 
 ### Connect with me:
 
