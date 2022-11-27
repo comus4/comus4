@@ -4,6 +4,8 @@
 ![Matrix gif](https://user-images.githubusercontent.com/79765856/204118715-e0912576-8f10-40ea-9093-d290be7c9637.gif)
 
 
+![power-the-matrix](https://user-images.githubusercontent.com/79765856/204118762-e229995e-562e-4fd5-a7c9-9ea99ec2a4db.gif)
+
 
 
 # Hi There! 
