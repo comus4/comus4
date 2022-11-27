@@ -11,14 +11,6 @@
 ![matrix](https://user-images.githubusercontent.com/79765856/204119195-f46704d5-75f4-4c50-9665-067bb8625046.gif)
 
 
-![space-narian](https://user-images.githubusercontent.com/79765856/204119417-6a06aa86-96b6-4759-8d79-85b0a145207a.gif)
-
-
-
-
-
-[space-narian2.gif.zip](https://github.com/comus4/comus4/files/10097531/space-narian2.gif.zip)
-
 ![the-matrix-has-you-the-matrix](https://user-images.githubusercontent.com/79765856/204118998-da0de533-639f-4c12-918d-f59c8c3e35bc.gif)
 
 
