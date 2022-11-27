@@ -1,9 +1,8 @@
 
-![interstellar-blackhole](https://user-images.githubusercontent.com/79765856/204119113-6e6ff456-b4df-4b3c-a3aa-d58626194eb8.gif)
-![interstellar-blackhole](https://user-images.githubusercontent.com/79765856/204119126-f3eceb99-2ee5-46c9-bbe0-b1d4c2151b16.gif)
-![interstellar-blackhole](https://user-images.githubusercontent.com/79765856/204119126-f3eceb99-2ee5-46c9-bbe0-b1d4c2151b16.gif)
-![interstellar-blackhole](https://user-images.githubusercontent.com/79765856/204119126-f3eceb99-2ee5-46c9-bbe0-b1d4c2151b16.gif)
-![interstellar-blackhole](https://user-images.githubusercontent.com/79765856/204119126-f3eceb99-2ee5-46c9-bbe0-b1d4c2151b16.gif)
+
+![code-purpose-of-life](https://user-images.githubusercontent.com/79765856/204119161-a3822e6e-1b07-4cc5-96a2-8ff2bb26c2e4.gif)
+![code-purpose-of-life](https://user-images.githubusercontent.com/79765856/204119161-a3822e6e-1b07-4cc5-96a2-8ff2bb26c2e4.gif)
+
 
 
 ![the-matrix-has-you-the-matrix](https://user-images.githubusercontent.com/79765856/204118998-da0de533-639f-4c12-918d-f59c8c3e35bc.gif)
