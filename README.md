@@ -2,6 +2,8 @@
 
 <img src="https://github.com/MarikIshtar007/MarikIshtar007/raw/master/images/matrix.gif" alt="Awesome Matrix Code" align="center" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 
+![Matrix gif](https://user-images.githubusercontent.com/79765856/204118715-e0912576-8f10-40ea-9093-d290be7c9637.gif)
+
 
 
 https://user-images.githubusercontent.com/79765856/204118514-35dbdde5-d421-4a2e-868c-967c65018681.mov
