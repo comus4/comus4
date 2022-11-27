@@ -1,13 +1,6 @@
 
 
-![whoa-deja-vu-matrix-glitch](https://user-images.githubusercontent.com/79765856/204118838-3cc26036-d3b7-440e-ba06-a641c40dfbf0.gif)
-
-![the-matrix-has-you-the-matrix](https://user-images.githubusercontent.com/79765856/204118998-da0de533-639f-4c12-918d-f59c8c3e35bc.gif)
-
 ![dev-developer](https://user-images.githubusercontent.com/79765856/204119021-b96029e2-0306-4a6f-8a4c-29da8dc0519c.gif)
-
-
-
 
 # Hi There! 
 
