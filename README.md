@@ -14,7 +14,7 @@
 Swift & SwiftUI (Core language and UI framework)
 Swift Concurrency (async/await for asynchronous task management)
 URLSession (Networking) and SwiftData (Local persistence)
-Core ML (Machine Learning integration), RealityKit & ARKit (Augmented Reality), and Metal (Advanced graphics and GPU computation)
+Core ML (Machine Learning integration), and RealityKit & ARKit (Augmented Reality).
 - 🌳 Fun Fact: I love going for runs out in nature, exploring Boston’s scenic routes!
 
 ## Me as I learn to code:
