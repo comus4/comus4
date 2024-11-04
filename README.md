@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=comus4)
 
 ## I'm a Student, Budding Developer, and Nutrition/Fitness Enthusiast!!
-- 🌱 I’m currently learning and developing with the latest Apple tools in iOS development, including SwiftUI, Swift Concurrency, and the iOS 17 Observation framework using the @Observable macro.
+- 🌱 I’m currently learning and developing with the latest Apple tools in iOS development, including SwiftUI, Swift Concurrency, and frameworks for state management like iOS 17 Observation framework using the @Observable macro.
 - 💼 2024-2025 Goals: Expand my expertise in modern iOS development, focusing on async/await for concurrency, and mentoring students through WeDev, the iOS development club I founded at Northeastern University.
 - 🛠️ Tools I'm Using: Leveraging a variety of Apple technologies:
 Swift & SwiftUI (Core language and UI framework)
