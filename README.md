@@ -8,10 +8,14 @@
 ![](https://komarev.com/ghpvc/?username=comus4)
 
 ## I'm a Student, Budding Developer, and Nutrition/Fitness Enthusiast!!
-
-- 🌱 I’m currently learning more about all things visionOS, SwiftUI, ARKit, RealityKit, Reality Composer Pro, MVVM, Swift Data, Structured Concurrency.  
-- 🌱 2023 Goals: Learn everything I can to be ready to develop for Apple's upcoming shipment of Vision Pro.
-- 🌱 Thing I do for fun: Going for runs out in nature.
+- 🌱 I’m currently learning and developing with the latest Apple tools in iOS development, including SwiftUI, Swift Concurrency, and the iOS 17 Observation framework using the @Observable macro.
+- 💼 2024-2025 Goals: Expand my expertise in modern iOS development, focusing on async/await for concurrency, and mentoring students through WeDev, the iOS development club I founded at Northeastern University.
+- 🛠️ Tools I'm Using: Leveraging a variety of Apple technologies:
+Swift & SwiftUI (Core language and UI framework)
+Swift Concurrency (async/await for asynchronous task management)
+URLSession (Networking) and SwiftData (Local persistence)
+Core ML (Machine Learning integration), RealityKit & ARKit (Augmented Reality), and Metal (Advanced graphics and GPU computation)
+- 🌳 Fun Fact: I love going for runs out in nature, exploring Boston’s scenic routes!
 
 ## Me as I learn to code:
 ![interstellar-cryinggif](https://user-images.githubusercontent.com/79765856/204119301-cacaa961-95bb-4265-a94e-86d1e0496755.gif)
